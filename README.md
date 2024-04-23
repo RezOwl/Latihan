@@ -1,2 +1,2 @@
 # Latihan
-Repo ini dipakai untuk latihan github pemrograman website
+repository ini dugunakan untuk latihan menggunakan github dalam mata kuliah pemrograman web
